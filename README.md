@@ -4,15 +4,18 @@
 3. 실행
 
 실행 결과
-Q1:
+flat shading
 
-![image](https://github.com/user-attachments/assets/6df04428-989e-40de-aa85-bf7b86f353d5)
-Q2:
+![image](https://github.com/user-attachments/assets/6f7674df-d7d9-4bcb-97fd-69e56f8359c3)
 
-![image](https://github.com/user-attachments/assets/cb96d4df-0f4f-4d0b-9632-23e0fcc2dc0d)
-Q3
+gouraud shading
 
-![image](https://github.com/user-attachments/assets/d5bd4229-1201-4f6b-be9e-5c362e595332)
+![image](https://github.com/user-attachments/assets/fef02ce9-ad09-4112-923a-82fcee1692c7)
+
+phong shding
+
+![image](https://github.com/user-attachments/assets/41014464-fe8a-45e6-8ebf-fc20795ce730)
+
 
 
 
