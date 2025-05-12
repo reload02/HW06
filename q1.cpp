@@ -8,7 +8,7 @@
 #include <GL/freeglut.h>
 #define GLFW_INCLUDE_GLU
 #define GLFW_DLL
-#include <GLFW/glfw3.h>
+#include <GLFW/glfw3.h> 
 
 #define M_PI 3.14159265358979323846
 
